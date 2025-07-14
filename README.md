@@ -2,6 +2,11 @@
 
 Proyecto gráfico para **ESP32-S3 con pantalla integrada** (modelo JC3248W535C), basado en **LVGL**. Pantalla táctil compilada desde PlatformIO.
 
+<figure style="text-align: center;">
+   <img src="/img/esp32.png" alt="ESP32S3">
+   <figcaption style="font-style: italic; font-size: smaller;">Uso NetScan</figcaption>
+</figure>
+
 ---
 
 ## 🚀 Instalación y uso
