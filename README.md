@@ -2,8 +2,10 @@
 
 Proyecto gráfico para **ESP32-S3 con pantalla integrada** (modelo JC3248W535C), basado en **LVGL**. Pantalla táctil compilada desde PlatformIO.
 
+![alt text](img/esp32.png)
+
 <figure align="center">
-   <img src="/img/esp32.png" alt="ESP32S3" width="400"/>
+   <img src="/img/esp32.png" alt="esp32s3" width="400"/>
    <figcaption style="font-style: italic; font-size: smaller;"></figcaption>
 </figure>
 
