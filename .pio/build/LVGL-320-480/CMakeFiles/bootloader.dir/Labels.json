@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/r4mnx/Desktop/DDkali/Tool_r4mnx/Soft_r4mnx/ESP32/esp32s3_LVGL/.pio/build/LVGL-320-480/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
